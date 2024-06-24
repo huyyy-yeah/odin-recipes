@@ -1,0 +1,16 @@
+/* stylesheet for recipe website */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head, 
+.subsection {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subsection {
+    font-size: smaller;
+}
