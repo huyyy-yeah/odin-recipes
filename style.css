@@ -11,6 +11,13 @@ div {
 
 }
 
+h1 {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    
+}
+
 /* Actual Recipe Pages Style */
 
 p {
@@ -21,11 +28,18 @@ p {
 .subsection {
     color: black;
     font-weight: bold;
-    text-align: start;
+}
+
+.head {
+    font-size: larger;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .subsection {
     font-size: smaller;
+    text-align: start;
 }
 
 .center {
